@@ -1,3 +1,5 @@
+# Now outdated, only worked for overwatch 1
+
 from requests_html import HTMLSession
 import json
 
